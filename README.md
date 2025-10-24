@@ -1,13 +1,13 @@
 # INTERFACING DAC WITH 8086 KIT AND GENERATING SAWTOOTH AND SQUARE WAVEFORMS
 
 ## AIM
-To write an assembly language program in 8086 to generate Sawtooth and Square waveforms using DAC.
+To write an assembly language program in 8086 to generate Sawtooth and Square waveforms using DAC
+
+
+
+
 
 ---
-
-
-
-
 ## APPARATUS REQUIRED
 
 | S. No | Item              | Specification   | Quantity |
